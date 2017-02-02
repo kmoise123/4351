@@ -1,0 +1,2 @@
+let function hello() = print("Hello, World!\n")
+in hello() end
